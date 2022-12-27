@@ -1,0 +1,82 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#745656"
+    tools:context="com.example.androidclothstore.Fragments.ProfileFragment">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:orientation="vertical"
+       >
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Profile"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+       <ImageView
+           android:layout_width="163dp"
+           android:layout_height="194dp"
+           android:src="@mipmap/ic_person_black_24dp" />
+
+       <EditText
+           android:id="@+id/profileFirstName"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="First Name"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+       <EditText
+           android:id="@+id/profileLastName"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Last Name"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+       <EditText
+           android:id="@+id/profileEmail"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="E-Mail"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+       <EditText
+           android:id="@+id/profilePassword"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Password"
+           android:inputType="textPassword"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+       <EditText
+           android:id="@+id/profileDateOfBirth"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Date Of Birth"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+       <EditText
+           android:id="@+id/profileShippingAddress"
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:text="Shipping Address"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+           />
+       <EditText
+           android:id="@+id/profileBillingAddress"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Billing Address"
+           android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+       <Button
+           android:id="@+id/profileButton"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Save"
+           android:layout_gravity="center"
+           android:background="@drawable/btn"
+           android:layout_marginTop="8dp"
+           android:layout_marginBottom="8dp"
+           />
+
+   </LinearLayout>
+</ScrollView>

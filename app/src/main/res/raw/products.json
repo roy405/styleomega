@@ -1,0 +1,222 @@
+[
+  {
+    "Name": "Polo Shirt",
+    "ShortDescription": "Product #1 short description goes here.",
+    "LongDescription": "Product #1 long description goes here.",
+    "Catagory": 1,
+    "Price": 800,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://www.jcrew.com/s7-img-facade/93952_BK0001?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&wid=200&hei=200",
+    "FullImage": "https://images.sportsdirect.com/images/products/54045403_l.jpg"
+  },
+  {
+    "Name": "Denim Jeans",
+    "ShortDescription": "Product #2 short description goes here.",
+    "LongDescription": "Product #2 long description goes here.",
+    "Catagory": 1,
+    "Price": 1200,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://s7d9.scene7.com/is/image/JCPenney/DP0603201317062807M.tif?$gallery$",
+    "FullImage": "https://fieldsheer.com/media/catalog/product/cache/1/image/750x/040ec09b1e35df139433887a97daa66f/2/0/2017_fieldsheer_motorcycle_quadratex_kevlar_denim_charger_jeans_front_fsp18m04-04.jpg"
+  },
+  {
+    "Name": "White Striped Beanie",
+    "ShortDescription": "Product #3 short description goes here.",
+    "LongDescription": "Product #3 long description goes here.",
+    "Catagory": 1,
+    "Price": 600,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://images.eastbay.com/pi/67309082/large/nike-team-sideline-beanie",
+    "FullImage": "https://shop.r10s.jp/bleecker/cabinet/nike_2/329714170205_1.jpg"
+  },
+  {
+    "Name": "Red Checkered Shirt (Full Sleeve)",
+    "ShortDescription": "Product #4 short description goes here.",
+    "LongDescription": "Product #4 long description goes here.",
+    "Catagory": 1,
+    "Price": 1500,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://www.jcrew.com/s7-img-facade/07548_WO2838?fmt=jpeg&qlt=90,0&resMode=sharp&op_usm=.1,0,0,0&wid=200&hei=200",
+    "FullImage": "https://joefresh-resource-dev.joefresh.com/JF/b1/KGF6WT2309/Red/1A.jpg"
+  },
+  {
+    "Name": "Black Boots",
+    "ShortDescription": "Product #5 short description goes here.",
+    "LongDescription": "Product #5 long description goes here.",
+    "Catagory": 1,
+    "Price": 5500,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "https://i.ebayimg.com/thumbs/images/g/7jsAAOSw5cBa1Zz2/s-l200.jpg",
+    "FullImage": "http://cdn.shopify.com/s/files/1/0419/1525/products/mens-black-leather-president-boot-1_grande.JPG?v=1503963377"
+  },
+  {
+    "Name": "Product #6 name",
+    "ShortDescription": "Product #6 short description goes here.",
+    "LongDescription": "Product #6 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-06",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-06"
+  },
+  {
+    "Name": "Product #7 name",
+    "ShortDescription": "Product #7 short description goes here.",
+    "LongDescription": "Product #7 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-07",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-07"
+  },
+  {
+    "Name": "Product #8 name",
+    "ShortDescription": "Product #8 short description goes here.",
+    "LongDescription": "Product #8 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-08",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-08"
+  },
+  {
+    "Name": "Product #9 name",
+    "ShortDescription": "Product #9 short description goes here.",
+    "LongDescription": "Product #9 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-09",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-09"
+  },
+  {
+    "Name": "Product #10 name",
+    "ShortDescription": "Product #10 short description goes here.",
+    "LongDescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-10",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-10"
+  },
+  {
+    "Name": "Product #11 name",
+    "ShortDescription": "Product #1 short description goes here.",
+    "LongDescription": "Product #1 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-01",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-01"
+  },
+  {
+    "Name": "Product #12 name",
+    "ShortDescription": "Product #2 short description goes here.",
+    "LongDescription": "Product #2 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-02",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-02"
+  },
+  {
+    "Name": "Product #13 name",
+    "ShortDescription": "Product #3 short description goes here.",
+    "LongDescription": "Product #3 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-03",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-03"
+  },
+  {
+    "Name": "Product #14 name",
+    "ShortDescription": "Product #4 short description goes here.",
+    "LongDescription": "Product #4 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-04",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-04"
+  },
+  {
+    "Name": "Product #15 name",
+    "ShortDescription": "Product #5 short description goes here.",
+    "LongDescription": "Product #5 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-05",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-05"
+  },
+  {
+    "Name": "Product #16 name",
+    "ShortDescription": "Product #6 short description goes here.",
+    "LongDescription": "Product #6 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-06",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-06"
+  },
+  {
+    "Name": "Product #17 name",
+    "ShortDescription": "Product #7 short description goes here.",
+    "LongDescription": "Product #7 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-07",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-07"
+  },
+  {
+    "Name": "Product #18 name",
+    "ShortDescription": "Product #8 short description goes here.",
+    "LongDescription": "Product #8 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-08",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-08"
+  },
+  {
+    "Name": "Product #19 name",
+    "ShortDescription": "Product #9 short description goes here.",
+    "LongDescription": "Product #9 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-09",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-09"
+  },
+  {
+    "Name": "Product #20 name",
+    "ShortDescription": "Product #10 short description goes here.",
+    "LongDescription": "Product #10 long description goes here.",
+    "Catagory": 1,
+    "Price": 100,
+    "Quantity": 50,
+    "Active": true,
+    "ScaledImage": "http://via.placeholder.com/200x200?text=Product-10",
+    "FullImage": "http://via.placeholder.com/300x350?text=Product-10"
+  }
+]
