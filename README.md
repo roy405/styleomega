@@ -32,9 +32,7 @@ The application consists of all basic functionalities for a ecommerce based ente
 
 ## Run on physical androdi device
 
-- Use the signed APK provided in the folder
-or 
-- Create Signed APK through Android Studio
+- Use the signed APK provided in the folder or Create Signed APK through Android Studio
   - Go to Build > Generate Signed APK > Click _Create New_ > Fill in form (Create a key to any Directory) > Next and Release
 - Transfer the apk to phone memory and install 
 - Run application
